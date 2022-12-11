@@ -1,0 +1,54 @@
+/*001*/
+body {
+    font-family: "Garamond", cursive;
+    margin: 0 auto;
+    padding: 0 3em;
+    max-width: 60em;
+    min-height: 100%;
+}
+/* Header*/
+/*001*/
+header {
+    background-color: #e8fad7;
+    color: #2c422f;
+    text-align: center;
+    padding: 1.5em 0 1em 0;
+    margin-bottom: 2em;
+}/*002*/
+nav a {
+    color: #2c422f;
+    background-color: #e8fad7;
+    text-decoration-line: none; 
+    font-size: 1.2em;
+    margin: 0 .5em;
+}
+/*011*/
+a:hover {
+    text-decoration: underline;
+}
+/* Main container */
+/*001*/
+main {
+    min-height: 36em;
+}
+/*001*/
+h2 {
+    text-align: center;
+}
+/*001*/
+p {
+    font-size: 1.1em;
+}
+/* Footer */
+/*001*/
+footer {
+    text-align: center;
+    background-color: #2c422f;
+    color: #e8fad7;
+    padding: 2em 2em 1em 2em;
+}
+/*002*/
+footer img,
+footer p {
+    display: inline;
+}

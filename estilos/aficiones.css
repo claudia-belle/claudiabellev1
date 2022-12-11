@@ -1,0 +1,24 @@
+/*012*/
+nav a:nth-child(2) {
+    text-decoration: underline;
+    font-size: 1.3em;
+}
+/*001*/
+section {
+    text-align: justify;
+    column-width: 18em;
+    column-gap: 2em;
+    margin-bottom: 3em;
+}
+/*001*/
+h2 {
+    column-span: all;
+}
+/*001*/
+h3 {
+    break-before: column;
+}
+/*002*/
+section img {
+    margin: 1em 1.7em;
+}
